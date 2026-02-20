@@ -122,7 +122,7 @@ public class Project1 {
 
                 default:
                     System.out.println("Invalid Option!");
-                    System.out.println("bye");
+                    System.out.println("hai");
 
             }
             }
